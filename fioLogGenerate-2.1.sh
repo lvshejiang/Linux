@@ -1,6 +1,6 @@
 #!/bin/sh
 # ########################################################################
-# AUTHOR: Zhangguohui
+# AUTHOR: ***
 # DATE:  2019-01-05
 # DESCRIBE: This Script is use to excact fio test result. Each file
 #           will be extract needed 6 line in 10 fio result files
